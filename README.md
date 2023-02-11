@@ -1,3 +1,5 @@
+Author: https://github.com/seekeroftheball    https://gist.github.com/seekeroftheball
+
 # MenuItemValidationExample
 A simple example of menu item validation in Unity and C# using an EditorPrefs bool to track the state of the menu items.
 
