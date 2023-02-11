@@ -1,4 +1,6 @@
-﻿// Author: https://github.com/seekeroftheball
+//Author : https://github.com/seekeroftheball   https://gist.github.com/seekeroftheball
+//Version : 1.0
+//Date : Feb 2023
 
 using UnityEditor;
 
